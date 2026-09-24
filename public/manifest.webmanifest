@@ -1,0 +1,16 @@
+{
+  "name": "余量 · 医学学习与生活",
+  "short_name": "余量",
+  "description": "按周平衡，每天只推进最关键的行动。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8faff",
+  "theme_color": "#215de5",
+  "icons": [
+    { "src": "/pwa-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/pwa-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

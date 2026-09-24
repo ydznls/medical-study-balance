@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790094857830,
+      "tag": "0000_solid_shadowcat",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790150495825,
+      "tag": "0001_cultured_black_tarantula",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790168774570,
+      "tag": "0002_material_parse_tasks",
+      "breakpoints": true
+    }
+  ]
+}
